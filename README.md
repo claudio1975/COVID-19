@@ -16,3 +16,8 @@ Below plot results from the Covid-19 analysis
 ![](images/ts_cumulative_deaths.png)
 ![](images/ts_day_cases.png)
 ![](images/ts_day_deaths.png)
+![](images/ts_cumulative_cases_continent.png)
+![](images/ts_cumulative_deaths_continent.png)
+![](images/ts_day_cases_continent.png)
+![](images/ts_day_deaths_continent.png)
+
